@@ -1,0 +1,45 @@
+body{
+    background-color: rgb(37, 36, 34);
+}
+div{
+    background-color: rgb(150, 144, 135);
+    padding: 5%;
+    text-align: center;
+    padding-bottom: 10%;
+    max-width: 400px;
+    margin: auto;
+    margin-top: 30%;
+    border-radius: 4rem;
+    
+    
+    /* justify-content: center;
+    align-items: center; */
+}
+.button{
+    padding: 10px;
+    border-radius: 1em;
+    max-width: 5cm;
+    border: none;
+    
+}
+#stopwatch{
+    font-size: 2em;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    
+}
+#timer{
+    font-family: monospace;
+    margin-top: -1rem;
+    font-size: 4em;
+    margin-bottom: 0.3cm;
+}
+#start{
+    background-color: rgb(24, 153, 7);
+
+}
+#stop{
+    background-color: brown;
+}
+#reset{
+    background-color: blue;
+}

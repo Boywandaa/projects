@@ -1,0 +1,30 @@
+body{
+    margin-top: 2cm;
+    background-color: hsl(56, 26%, 79%);
+}
+div{
+
+    background-color: bisque;
+    text-align: center;
+    /* display: block; */
+    /* padding: 15px;
+    border: 20px;
+    margin: auto; */
+    
+    max-width: 350px;
+    margin: auto;
+    padding-block: 3em;
+    padding-top: 1em;
+    border-radius: 15px;
+    box-shadow: 5px 5px 25px hsl(60, 83%, 5%);
+}
+#textbook{
+    text-align: center;
+    margin-bottom: 0.2cm;
+}
+#ftoc{
+    margin-bottom: 0.4cm;
+}
+h1{
+    font-family: sans-serif;
+}

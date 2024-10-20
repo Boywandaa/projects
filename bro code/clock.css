@@ -1,0 +1,14 @@
+div{
+    background-color: bisque;
+    padding: 15%;
+    display: flex;
+    justify-content: center;
+    align-items: center ;
+    height:100vh;
+    /* text-align: center; */
+    font-size: 3em;
+    font-family: monospace;
+}
+body{
+    background-color: rgb(85, 77, 77);
+}

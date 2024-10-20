@@ -1,0 +1,40 @@
+body {
+    background-image: url(background.jpeg);
+    /* background-attachment: fixed; */
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+    background-size: cover;
+    color: antiquewhite;
+}
+.header {
+    text-align: center;
+    color: rgb(154, 110, 29);
+    font-family: Courier, monospace; 
+    background-color:rgb(44, 245, 8);
+    padding
+
+}
+a{
+    /* text-align: center; */
+    text-decoration: none;
+}
+header{
+     margin-top: -10px;
+}
+main{
+    /* background-color: antiquewhite; */
+}
+.box1{
+    display: block;
+    color: aqua;
+    text-align: center;
+    background-color: rgb(67, 238, 15);
+    /* width: 100px; */
+    height: 100px;
+    /* float:right; */
+    width
+
+
+    
+}
